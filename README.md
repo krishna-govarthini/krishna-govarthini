@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Krishna Govarthini!
 
-<img align="right" width="370" height="290" src="![githubprofile](https://github.com/user-attachments/assets/30c30816-a5a8-4b17-9272-4caad1492f42)">    
+<img align="right" width="370" height="290" src="https://github.com/user-attachments/assets/30c30816-a5a8-4b17-9272-4caad1492f42">
 
 💻 Trainee @ LMNAs Cloud Solutions                             
 🌱 I’m currently diving into the world of Full Stack Web Development<br/>
