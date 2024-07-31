@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Krishna Govarthini!
 
  💻 Trainee @ LMNAs Cloud Solutions
-<img align="right" width="370" height="290" src="https://pin.it/1buaLXbhQ">                                                
+<img align="right" width="370" height="290" src="C:\Users\LENS\Downloads\githubprofile.jpg">                                                
 🌱 I’m currently diving into the world of Full Stack Web Development<br/>
 🌷 Fun fact: When I’m not coding, you’ll find me gardening!
   
