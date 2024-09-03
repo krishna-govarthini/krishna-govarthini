@@ -2,7 +2,7 @@
 
 <img align="right" width="370" height="300" src="https://github.com/user-attachments/assets/30c30816-a5a8-4b17-9272-4caad1492f42">
 
-🌱 I’m diving into Full Stack Web Development with Error Makes Clever Academy<br/>
+🌱 I’m diving into MERn Stack Development with Error Makes Clever Academy<br/>
 🌷 Fun fact: When I’m not coding, you’ll find me gardening!
   
 
